@@ -2,12 +2,6 @@
 
 # Instalation
 
-Clone Web + DB
-- https://trello.com/c/Ag7VTi1a/10-clone-base-code
-
-Clone mobile
-- git clone https://github.com/Sarana-Makin-Mulya/mobile.git
-
 Install sdk flutter
 - https://docs.flutter.dev/get-started/install
 
